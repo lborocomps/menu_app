@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Pad Thai",
+    "image": "pad_thai",
+    "categories": ["Seafood"],
+    "ingredients": [
+      "Rice noodles",
+      "Fish sauce",
+      "Shrimp",
+      "Bean sprouts",
+      "Peanuts"
+    ],
+    "instructions": [
+      "Soak noodles in warm water until soft.",
+      "Stir fry shrimp with garlic and oil.",
+      "Add noodles and season with fish sauce and tamarind paste.",
+      "Toss with bean sprouts and top with peanuts."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Thai Green Curry",
+    "image": "green_curry",
+    "categories": ["Vegan"],
+    "ingredients": [
+      "Green curry paste",
+      "Coconut milk",
+      "Mixed vegetables",
+      "Basil",
+      "Soy sauce"
+    ],
+    "instructions": [
+      "Simmer curry paste with coconut milk.",
+      "Add vegetables and cook until tender.",
+      "Season with soy sauce and fresh basil."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Lemongrass Seafood Soup",
+    "image": "lemongrass_soup",
+    "categories": ["Seafood", "Light"],
+    "ingredients": [
+      "Fish sauce",
+      "Shrimp",
+      "Lemongrass",
+      "Mushrooms",
+      "Chicken stock"
+    ],
+    "instructions": [
+      "Bring stock to a boil with lemongrass.",
+      "Add shrimp and mushrooms, cook until shrimp turns pink.",
+      "Season with fish sauce to taste."
+    ]
+  }
+]
