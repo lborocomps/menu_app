@@ -1,3 +1,3 @@
-# menu_app
+# recipe_app
 
-This is a menu app for iphone.
+This is a recipe app for iphone.
